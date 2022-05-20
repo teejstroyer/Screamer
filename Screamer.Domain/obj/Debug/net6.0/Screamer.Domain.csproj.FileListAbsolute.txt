@@ -1,0 +1,12 @@
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/bin/Debug/net6.0/Screamer.Domain.deps.json
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/bin/Debug/net6.0/Screamer.Domain.dll
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/bin/Debug/net6.0/ref/Screamer.Domain.dll
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/bin/Debug/net6.0/Screamer.Domain.pdb
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.csproj.AssemblyReference.cache
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.AssemblyInfoInputs.cache
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.AssemblyInfo.cs
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.csproj.CoreCompileInputs.cache
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.dll
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/ref/Screamer.Domain.dll
+/Users/titorianobroadus/Desktop/Screamer/Screamer.Domain/obj/Debug/net6.0/Screamer.Domain.pdb

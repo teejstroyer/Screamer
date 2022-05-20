@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screamer.Infrastructure", "Screamer.Infrastructure\Screamer.Infrastructure.csproj", "{154DE893-0263-4EEC-9D6E-957D7F78A90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screamer.WebApi", "Screamer.WebApi\Screamer.WebApi.csproj", "{62E6E56F-6EFC-46C8-994D-3C031F61C75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screamer.Domain", "Screamer.Domain\Screamer.Domain.csproj", "{8C90F79F-35EA-4C3A-AD3C-35443BCFA44F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{65BCEC42-C5AE-40B6-88F5-A00663EFE5E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{583DB320-6704-4499-BE16-AF6AD78B4189}"
+	ProjectSection(SolutionItems) = preProject
+		liquibase\changelog.xml = liquibase\changelog.xml
+		liquibase\liquibase.properties = liquibase\liquibase.properties
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154DE893-0263-4EEC-9D6E-957D7F78A90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154DE893-0263-4EEC-9D6E-957D7F78A90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154DE893-0263-4EEC-9D6E-957D7F78A90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154DE893-0263-4EEC-9D6E-957D7F78A90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E6E56F-6EFC-46C8-994D-3C031F61C75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E6E56F-6EFC-46C8-994D-3C031F61C75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E6E56F-6EFC-46C8-994D-3C031F61C75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E6E56F-6EFC-46C8-994D-3C031F61C75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C90F79F-35EA-4C3A-AD3C-35443BCFA44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C90F79F-35EA-4C3A-AD3C-35443BCFA44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C90F79F-35EA-4C3A-AD3C-35443BCFA44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C90F79F-35EA-4C3A-AD3C-35443BCFA44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BCEC42-C5AE-40B6-88F5-A00663EFE5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BCEC42-C5AE-40B6-88F5-A00663EFE5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BCEC42-C5AE-40B6-88F5-A00663EFE5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BCEC42-C5AE-40B6-88F5-A00663EFE5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
